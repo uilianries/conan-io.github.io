@@ -14,10 +14,13 @@
        margin-right:10px;
     }
     .go_conan{
-       float:right;
        font-weight: bold;
        padding-top: 15px;
-    } 
+    }
+    .search_conan{
+        font-weight: bold;
+    }
+
     padding: 5px 0 5px 0;
 }
 
@@ -38,6 +41,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+
 
     .menu-icon {
         display: none;

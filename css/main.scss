@@ -68,3 +68,92 @@ $on-laptop:        800px;
     color: white;
 
 }
+
+#search_conan {
+    float: right;
+    position: relative;
+  top: 8px;
+  right: 16px;
+}
+
+.searchTerm {
+  padding: 10px;
+  font-family:sans-serif;
+  padding-left: 50px 0;
+  //width: 100%;
+  //border: 1px solid #fff;
+  //padding: 5px;
+  //height: 20px;
+  //border-radius: 5px;
+  //outline: none;
+  //color: #fff;
+}
+
+li {
+  list-style-type: none;
+}
+
+/*
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+
+.searchButton {
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  display:inline-block;
+}
+*/
+
+
+/*Resize the wrap to see the search bar change
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#search{
+    float:right;
+}
+
+textarea,
+input[type="text"] {
+    float: right;
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	display: block;
+	box-sizing: padding-box;
+}
+
+textarea {
+	height: 250px;
+	line-height: 1.5em;
+	border: 1px solid #ccc;
+	resize: none;
+}
+
+input[type="submit"] {
+	margin: 30px 0 0 0;
+	font-size: 20px;
+}
+
+.search {
+    float: right;
+	width: 50%;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+*/
